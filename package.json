@@ -1,26 +1,26 @@
 {
-  "name": "nodeprueba",
-  "version": "4",
-  "description": "ninguna",
-  "main": "index.js",
-  "dependencies": {
-    "express": "^4.13.3"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "node index.js"
-  },
+  "name": "lucho",
+  "version": "6.0.7",
+  "description": ":D",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/luchohero/nodepruebalucho.git"
   },
-  "keywords": [
-    "ninguna"
-  ],
   "author": "luchohero",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luchohero/nodepruebalucho/issues"
   },
-  "homepage": "https://github.com/luchohero/nodepruebalucho#readme"
+  "homepage": "https://github.com/luchohero/nodepruebalucho#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  }
 }
