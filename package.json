@@ -1,6 +1,6 @@
 {
-  "name": "nodepruebalucho",
-  "version": "1.0.1",
+  "name": "nodeprueba",
+  "version": "4",
   "description": "ninguna",
   "main": "index.js",
   "dependencies": {
